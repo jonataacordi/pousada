@@ -56,27 +56,27 @@ Insira aqui capturas de tela do sistema para demonstrar seu funcionamento e apar
 
 1. **Tela de Login**
    
-   ![Tela de Login](https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/3a00af44-8629-4006-9af3-50ccae873bd1)
+   ![Tela de Login](https://github.com/jonataacordi/pousada/assets/20300806/bd44787e-e71a-4cd1-b264-a8e4ed02bdb9)
 
 2. **Dashboard**
    
-   ![Dashboard](images/telas/02-dashboard.png)
+   ![Dashboard](https://github.com/jonataacordi/pousada/assets/20300806/b3d28610-cd7a-4a41-9412-028df4b80003)
 
 3. **Reserva de Quartos**
    
-   ![Reserva de Quartos](images/telas/03-reserva.png)
+   ![Reserva de Quartos](https://github.com/jonataacordi/pousada/assets/20300806/2f585995-de29-4989-bc80-f999016641f6)
 
-4. **Check-in**
+4. **Check-in realizado**
    
-   ![Check-in](images/telas/04-checkin_realizado.png)
+   ![Check-in](https://github.com/jonataacordi/pousada/assets/20300806/ae4c14a0-3f51-4bbc-979f-6d717ae69ec7)
 
 5. **Check-out**
    
-   ![Check-out](images/telas/05-checkout_realizado.png)
+   ![Check-out](https://github.com/jonataacordi/pousada/assets/20300806/e191a4c7-8996-47b2-a33e-1ef87f004e03)
 
 6. **Lista de Hóspedes**
    
-   ![Lista de Hóspedes](images/telas/06-lista_hospedes.png)
+   ![Lista de Hóspedes](https://github.com/jonataacordi/pousada/assets/20300806/fc215d0a-6b54-4044-9d8e-e1a83e368a26)
 
 ## Contribuição
 
