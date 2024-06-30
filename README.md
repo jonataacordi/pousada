@@ -5,8 +5,8 @@ Este é um sistema simples e interativo desenvolvido para gerenciar o cadastro e
 ## Tecnologias Utilizadas
 
 - <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/8aedf3e2-9a08-4c45-ae99-8d735f12915d" width="20px"> **HTML**: Utilizado para estruturar o conteúdo das páginas web.
-- <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/8aedf3e2-9a08-4c45-ae99-8d735f12915d" width="20px"> **CSS**: Utilizado para estilizar e melhorar a aparência das páginas web.
-- <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/8aedf3e2-9a08-4c45-ae99-8d735f12915d" width="20px"> **JavaScript (JS)**: Utilizado para adicionar interatividade às páginas web.
+- <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/fe032385-487e-408b-ad12-bef2b328f001" width="20px"> **CSS**: Utilizado para estilizar e melhorar a aparência das páginas web.
+- <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/57afde96-d9af-40ef-bfb7-a36c07d1c520" width="20px"> **JavaScript (JS)**: Utilizado para adicionar interatividade às páginas web.
 - <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/8aedf3e2-9a08-4c45-ae99-8d735f12915d" width="20px"> **PHP**: Utilizado para o desenvolvimento do backend do sistema, incluindo a lógica de negócio e a integração com o banco de dados.
 
 ## Funcionalidades
