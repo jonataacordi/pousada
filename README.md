@@ -25,8 +25,7 @@ O sistema integra uma API de CEP para identificar automaticamente o CEP fornecid
 ### Cabeçalho
 
 - Contém o logotipo da pousada.
-- Ícones de notificação e e-mail.
-- Exibição do nome do funcionário logado.
+- Ícones de notificação e e-mail para implementação.
 - Campo de busca dinâmico para pesquisar hóspedes por nome ou CPF.
 
 ### Menu Lateral
@@ -34,7 +33,7 @@ O sistema integra uma API de CEP para identificar automaticamente o CEP fornecid
 - **Dashboard**: Página inicial do sistema.
 - **Checkin**: Página para realizar check-ins.
 - **Checkout**: Página para realizar check-outs.
-- **Reservas**: Página para gerenciar reservas.
+- **Reservas**: Página para gerenciar reservas. Nessa página fica aguardando a realização do checkin.
 - **Hóspedes**: Página para listar todos os hóspedes cadastrados.
 - **Sair**: Opção para fazer logout do sistema.
 
