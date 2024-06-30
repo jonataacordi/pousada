@@ -56,27 +56,27 @@ Insira aqui capturas de tela do sistema para demonstrar seu funcionamento e apar
 
 1. **Tela de Login**
    
-   ![Tela de Login](images/telas/login_screen.png)
+   ![Tela de Login](images/telas/01-login.png)
 
 2. **Dashboard**
    
-   ![Dashboard](images/telas/dashboard_screen.png)
+   ![Dashboard](images/telas/02-dashboard.png)
 
 3. **Reserva de Quartos**
    
-   ![Reserva de Quartos](images/telas/reservation_screen.png)
+   ![Reserva de Quartos](images/telas/03-reserva.png)
 
 4. **Check-in**
    
-   ![Check-in](images/telas/checkin_screen.png)
+   ![Check-in](images/telas/04-checkin_realizado.png)
 
 5. **Check-out**
    
-   ![Check-out](images/telas/checkout_screen.png)
+   ![Check-out](images/telas/05-checkout_realizado.png)
 
 6. **Lista de Hóspedes**
    
-   ![Lista de Hóspedes](images/telas/guest_list_screen.png)
+   ![Lista de Hóspedes](images/telas/06-lista_hospedes.png)
 
 ## Contribuição
 
