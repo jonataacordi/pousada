@@ -25,7 +25,7 @@ O sistema integra uma API de CEP para identificar automaticamente o CEP fornecid
 ### Cabeçalho
 
 - Contém o logotipo da pousada.
-- Ícones de notificação e e-mail para implementação.
+- Ícones de notificação e e-mail prontos para implementação.
 - Campo de busca dinâmico para pesquisar hóspedes por nome ou CPF.
 
 ### Menu Lateral
