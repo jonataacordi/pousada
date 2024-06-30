@@ -56,7 +56,7 @@ Insira aqui capturas de tela do sistema para demonstrar seu funcionamento e apar
 
 1. **Tela de Login**
    
-   ![Tela de Login](images/telas/01-login.png)
+   ![Tela de Login](https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/3a00af44-8629-4006-9af3-50ccae873bd1)
 
 2. **Dashboard**
    
