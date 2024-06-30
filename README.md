@@ -4,7 +4,7 @@ Este é um sistema simples e interativo desenvolvido para gerenciar o cadastro e
 
 ## Tecnologias Utilizadas
 
-- <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/3a00af44-8629-4006-9af3-50ccae873bd1" width="20px"> **HTML**: Utilizado para estruturar o conteúdo das páginas web.
+- <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/8aedf3e2-9a08-4c45-ae99-8d735f12915d" width="20px"> **HTML**: Utilizado para estruturar o conteúdo das páginas web.
 - ![CSS](images/telas/css_icon.png) **CSS**: Utilizado para estilizar e melhorar a aparência das páginas web.
 - ![JavaScript](images/telas/js_icon.png) **JavaScript (JS)**: Utilizado para adicionar interatividade às páginas web.
 - ![PHP](images/telas/php_icon.png) **PHP**: Utilizado para o desenvolvimento do backend do sistema, incluindo a lógica de negócio e a integração com o banco de dados.
