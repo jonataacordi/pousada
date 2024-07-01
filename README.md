@@ -88,5 +88,5 @@ Este projeto é de código aberto e está licenciado sob a [MIT License](LICENSE
 
 ---
 
-Desenvolvido com 💖 pela equipe da Pousada Quinta do Ypuã.
+👨‍💻 Desenvolvido pela equipe de desenvolvimento da 3° Fase do SENAI.
 
