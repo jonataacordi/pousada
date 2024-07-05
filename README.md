@@ -78,13 +78,6 @@ Insira aqui capturas de tela do sistema para demonstrar seu funcionamento e apar
    
    ![Lista de Hóspedes](https://github.com/jonataacordi/pousada/assets/20300806/fc215d0a-6b54-4044-9d8e-e1a83e368a26)
 
-## Contribuição
-
-Se você deseja contribuir para o desenvolvimento deste sistema, sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_ com suas sugestões e melhorias.
-
-## Licença
-
-Este projeto é de código aberto e está licenciado sob a [MIT License](LICENSE).
 
 ---
 
